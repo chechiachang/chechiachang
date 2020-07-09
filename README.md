@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on DevOps/SRE
+- 🌱 I’m currently learning SRE
+- 👯 I’m looking to collaborate on SRE
+- 🤔 I’m looking for help with SRE
+- 💬 Ask me about GCP/Kubernetes/DevOps/SRE
+- 📫 How to reach me: [https://telegram.me/chechiachang](https://telegram.me/chechiachang)
+- 😄 Pronouns: ...
+- ⚡ Fun fact: Also a scuba diver instructor and figure skater.
