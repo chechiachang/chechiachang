@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning SRE
 - 💬 Ask me about GCP/Kubernetes/DevOps/SRE
 - 📫 How to reach me: [https://telegram.me/chechiachang](https://telegram.me/chechiachang)
-- ⚡ Fun fact: Also a scuba diver instructor and figure skater.
+- ⚡ Fun fact: 
+  - Also a scuba diver instructor
+  - and a figure skater.
 - My playgrounds:
   - [elasticsearch-playground](https://github.com/chechiachang/elasticsearch-playground)
   - [tekton-playground](https://github.com/chechiachang/tekton-playground)
