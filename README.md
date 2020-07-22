@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on DevOps/SRE
 - 🌱 I’m currently learning SRE
-- 💬 Ask me about GCP/Kubernetes/DevOps/SRE
+- 💬 Ask me about GCP/Azure/AWS/Kubernetes/DevOps/SRE
 - 📫 How to reach me: [https://telegram.me/chechiachang](https://telegram.me/chechiachang)
 - ⚡ Fun fact: 
   - Also a scuba diver instructor
@@ -30,6 +30,5 @@ Here are some ideas to get you started:
   - [kafka-playground](https://github.com/chechiachang/kafka-playground)
   - [kpt-playground](https://github.com/chechiachang/kpt-playground)
   - [istio-playground](https://github.com/chechiachang/istio-playground)
-  - [sre-playground](https://github.com/chechiachang/sre-playground)
 
 [![CheChia](https://www.randos.online/u/chechiachang?theme=blue)](https://randos.online/u/chechiachang/next)
