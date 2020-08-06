@@ -32,3 +32,5 @@ Here are some ideas to get you started:
   - [istio-playground](https://github.com/chechiachang/istio-playground)
 
 [![CheChia](https://www.randos.online/u/chechiachang?theme=blue)](https://randos.online/u/chechiachang/next)
+
+![stats](https://github-readme-stats.vercel.app/api?username=chechiachang&include_all_commits=true)
