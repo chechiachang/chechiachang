@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on DevOps/SRE
 - 🌱 I’m currently learning SRE
 - 💬 Ask me about GCP/Azure/AWS/Kubernetes/DevOps/SRE
-- 📫 How to reach me: [https://telegram.me/chechiachang](https://telegram.me/chechiachang)
+- 📫 How to reach me: [https://www.facebook.com/engineer.from.scratch](https://www.facebook.com/engineer.from.scratch)
 - ⚡ Fun fact: 
   - Also a scuba diver instructor
   - and a figure skater.
