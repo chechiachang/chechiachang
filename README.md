@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on DevOps/SRE
-- 🌱 I’m currently learning SRE
+- 🌱 I’m a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003985)
 - 💬 Ask me about GCP/Azure/AWS/Kubernetes/DevOps/SRE
 - 📫 How to reach me: [https://www.facebook.com/engineer.from.scratch](https://www.facebook.com/engineer.from.scratch)
 - ⚡ Fun fact: 
