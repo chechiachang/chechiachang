@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   - Also a scuba diver instructor
   - and a figure skater.
 - My playgrounds:
+  - [terraform-30-days](https://github.com/chechiachang/terraform-30-days)
   - [elasticsearch-playground](https://github.com/chechiachang/elasticsearch-playground)
   - [tekton-playground](https://github.com/chechiachang/tekton-playground)
   - [terraform-playground](https://github.com/chechiachang/terraform-playground)
